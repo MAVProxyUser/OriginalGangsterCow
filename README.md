@@ -4,6 +4,7 @@ OriginalGangsterCow (dirtyc0w) for DJI Crystal Sky
 Just run LastSkyCry.sh (and anagram for Crystal Sky!)
 
 Current expected output:
+```
 $ ./LastSkyCry.sh 
 dirtycow: 1 file pushed. 0.9 MB/s (47568 bytes in 0.048s)
 run-as: 1 file pushed. 5.8 MB/s (44800 bytes in 0.007s)
@@ -18,6 +19,7 @@ uid=0(root) gid=0(root) groups=1003(graphics),1004(input),1007(log),1011(adb),10
 remounting /system
 mount: Operation not permitted
 Enjoy the rooted CrystalSky, brought to you by your friendly neighborhood OGs!
+```
 
 @opcode finally found the magic PoC
 https://forum.xda-developers.com/z5-compact/general/dirtycow-vulnerability-test-suite-t3490411
