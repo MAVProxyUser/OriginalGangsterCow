@@ -1,6 +1,8 @@
 # OriginalGangsterCow
 OriginalGangsterCow (dirtyc0w) for DJI Crystal Sky
 
+<img src=https://pbs.twimg.com/media/DIcXecmUIAAPYb6.jpg>
+
 Just run LastSkyCry.sh (and anagram for Crystal Sky!)
 
 Current expected output:
