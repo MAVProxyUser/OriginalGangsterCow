@@ -1,7 +1,8 @@
 # OriginalGangsterCow
 OriginalGangsterCow (dirtyc0w) for DJI Crystal Sky
+```
 [Temporal installd patch allowing any app to be installed on Crystal Sky]
-
+```
 <img src=https://pbs.twimg.com/media/DIcXecmUIAAPYb6.jpg>
 
 Just run LastSkyCry.sh (and anagram for Crystal Sky!)
