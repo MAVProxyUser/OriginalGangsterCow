@@ -42,3 +42,5 @@ We've modified the code to be more friendly to DJI Crystal Sky users seeking roo
 
 Thanks to The_Lord for his original rooting efforts, and reversing $PopularRootingProgram to help the cause. 
 
+Much love to @bin4ry for patching up installd for us so we can install what we want. 
+
